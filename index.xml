@@ -6,11 +6,15 @@
     <description>Recent content on Daryl Van Dyke</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Fri, 16 Jun 2017 15:04:22 -0700</lastBuildDate>
+=======
+>>>>>>> refs/remotes/origin/master
     
 	<atom:link href="https://geospatialdaryl.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
+<<<<<<< HEAD
     <item>
       <title>hello_world</title>
       <link>https://geospatialdaryl.github.io/post/hello_world/</link>
@@ -30,5 +34,7 @@
 Daryl</description>
     </item>
     
+=======
+>>>>>>> refs/remotes/origin/master
   </channel>
 </rss>
