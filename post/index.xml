@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Daryl Van Dyke</title>
+    <link>https://geospatialdaryl.github.io/post/</link>
+    <description>Recent content in Posts on Daryl Van Dyke</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2017 15:04:22 -0700</lastBuildDate>
+    
+	<atom:link href="https://geospatialdaryl.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hello_world</title>
+      <link>https://geospatialdaryl.github.io/post/hello_world/</link>
+      <pubDate>Fri, 16 Jun 2017 15:04:22 -0700</pubDate>
+      
+      <guid>https://geospatialdaryl.github.io/post/hello_world/</guid>
+      <description>What&amp;rsquo;s so great about content? It&amp;rsquo;s always so content.</description>
+    </item>
+    
+    <item>
+      <title>hello world</title>
+      <link>https://geospatialdaryl.github.io/post/hello-world/</link>
+      <pubDate>Fri, 16 Jun 2017 11:53:16 -0700</pubDate>
+      
+      <guid>https://geospatialdaryl.github.io/post/hello-world/</guid>
+      <description>Welcome to my homepage.
+Daryl</description>
+    </item>
+    
+  </channel>
+</rss>
